@@ -1,0 +1,1 @@
+# terraform-container-module-ghost
